@@ -1,4 +1,4 @@
-<h2><span style="font-size: medium;">Khaki - HTML E-commerce Online Shop</span></h2>
+<h2><span style="font-size: medium;">Next-Gen-E-commerce Online Shop</span></h2>
 <table class="post-table">
 <thead>
 <tr>
@@ -19,14 +19,12 @@
 <thead>
 <tr>
 <th>Columns</th>
-<th>Color(s)</th>
 <th>Browser(s)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Mixed Columns</td>
-<td>Green, Yellow</td>
 <td>Chrome, Firefox, MS Edge, etc.</td>
 </tr>
 </tbody>
@@ -56,7 +54,7 @@
  	<li>FancyBox for displaying single products images</li>
  	<li>Contact Form, Checkout Form, Account Form etc.</li>
 </ul>
-<p style="text-align: left;"><b>Khaki Online Shop HTML5 Website Template Pages Included</b></p>
+<p style="text-align: left;"><b>Next-Gen-E-commerce Online Shop Pages Included</b></p>
 <ul>
  	<li>index page</li>
  	<li>shop page</li>
